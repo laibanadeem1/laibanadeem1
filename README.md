@@ -1,5 +1,39 @@
-## Hi there 👋
+# Hello, I'm Laiba Nadeem! 
 
+I am a **Computer Science student** based in Lahore, Pakistan. I bridge the gap between technical logic and creative design, focusing on building intelligent systems and intuitive user experiences.
+
+###  What I’m Working On
+- **AI & Data Science:** Experimenting with the Gemini API and Google AI Studio to build smart applications.
+- **Game Dev:** Exploring game pipelines and creating pixel art environments.
+<img width="22" height="22" alt="pinkghost" src="https://github.com/user-attachments/assets/f1520793-1624-427a-9077-4e13f8dd71ea" />
+
+###  Technical Toolbox
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Programming** | Python, C#, SQL |
+| **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
+| **AI/ML** | Hugging Face, Gemini API, Text Classification |
+| **Design** | Figma (UI/UX), Canva, Pixel Art |
+| **Tools** | Git, GitHub, VS Code, Google AI Studio |
+
+### Featured Projects
+
+- **[Ethics404 - Softec26](https://github.com/laibanadeem1/Ethics404-Softec26):** A collaborative AI project developed for one of Pakistan's biggest tech competitions.
+- **[Pink Flappy Bird](https://github.com/laibanadeem1/Pink-Flappy-Bird):** A C#-powered game featuring custom logic and design.
+- **[Car Rental Service](https://github.com/laibanadeem1/Car-Rental-Service):** A functional Python-based management system.
+
+
+### GitHub Stats
+![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibanadeem1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laibanadeem1&layout=compact&theme=radical)
+
+### Connect with Me
+- **LinkedIn:** [in/laiba-nadeem-b832892a8](https://www.linkedin.com/in/laiba-nadeem-b832892a8/)
+- **Email:** [laibanadeem0509@gmail.com]
+
+---
+*"Turning complex data into clear designs and efficient code."*
 <!--
 **laibanadeem1/laibanadeem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
