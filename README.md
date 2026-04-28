@@ -1,4 +1,6 @@
-<img width="32" height="32" alt="pinkghost" src="https://github.com/user-attachments/assets/4d2c418a-3c23-4bec-8684-8fafc1b36516" /> Hello, I'm Laiba Nadeem! 
+<img width="32" height="32" alt="pinkghost" src="https://github.com/user-attachments/assets/4d2c418a-3c23-4bec-8684-8fafc1b36516" /> 
+
+Hello, I'm Laiba Nadeem! 
 
 I am a **Computer Science student** based in Lahore, Pakistan. I bridge the gap between technical logic and creative design, focusing on building intelligent systems and intuitive user experiences.
 
