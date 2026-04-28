@@ -1,11 +1,11 @@
-# Hello, I'm Laiba Nadeem! 
+<img width="32" height="32" alt="pinkghost" src="https://github.com/user-attachments/assets/4d2c418a-3c23-4bec-8684-8fafc1b36516" />
+#  Hello, I'm Laiba Nadeem! 
 
 I am a **Computer Science student** based in Lahore, Pakistan. I bridge the gap between technical logic and creative design, focusing on building intelligent systems and intuitive user experiences.
 
 ###  What I’m Working On
 - **AI & Data Science:** Experimenting with the Gemini API and Google AI Studio to build smart applications.
 - **Game Dev:** Exploring game pipelines and creating pixel art environments.
-<img width="22" height="22" alt="pinkghost" src="https://github.com/user-attachments/assets/f1520793-1624-427a-9077-4e13f8dd71ea" />
 
 ###  Technical Toolbox
 
