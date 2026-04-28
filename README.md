@@ -3,7 +3,8 @@
 I am a **Computer Science student** based in Lahore, Pakistan. I bridge the gap between technical logic and creative design, focusing on building intelligent systems and intuitive user experiences.
 
 ###  What I’m Working On
-- **AI & Data Science:** Experimenting with the Gemini API and Google AI Studio to build smart applications.
+- **AI & Data Science:** Experimenting with the API's to build smart applications.
+- **Machine Learning:** Applying core concepts from university coursework to build predictive models and analyze complex datasets using Python.
 - **Game Dev:** Exploring game pipelines and creating pixel art environments.
 
 ###  Technical Toolbox
@@ -14,7 +15,7 @@ I am a **Computer Science student** based in Lahore, Pakistan. I bridge the gap 
 | **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
 | **AI/ML** | Hugging Face, Gemini API, Text Classification |
 | **Design** | Figma (UI/UX), Canva, Pixel Art |
-| **Tools** | Git, GitHub, VS Code, Google AI Studio |
+| **Tools** | Git, GitHub, VS Code, Google AI Studio, Supabase |
 
 ### Featured Projects
 
