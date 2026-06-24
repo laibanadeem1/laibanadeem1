@@ -35,7 +35,6 @@ I am a **Computer Science student** based in Lahore, Pakistan. I bridge the gap 
 - **Email:** [laibanadeem0509@gmail.com]
 
 ---
-*"Turning complex data into clear designs and efficient code."*
 <!--
 **laibanadeem1/laibanadeem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
