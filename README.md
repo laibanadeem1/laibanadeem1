@@ -25,13 +25,8 @@ I am a **Computer Science student** based in Lahore, Pakistan. I bridge the gap 
 - **[Pink Flappy Bird](https://github.com/laibanadeem1/Pink-Flappy-Bird):** A C#-powered game featuring custom logic and design.
 - **[Car Rental Service](https://github.com/laibanadeem1/Car-Rental-Service):** A functional Python-based management system.
 
-
-### GitHub Stats
-![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibanadeem1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laibanadeem1&layout=compact&theme=radical)
-
 ### Connect with Me
-- **LinkedIn:** [in/laiba-nadeem-b832892a8](https://www.linkedin.com/in/laiba-nadeem-b832892a8/)
+- **LinkedIn:** [in/laiba-nadeem](https://www.linkedin.com/in/laiba-nadeem-b832892a8/)
 - **Email:** [laibanadeem0509@gmail.com]
 
 ---
